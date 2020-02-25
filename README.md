@@ -6,18 +6,18 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: `Myself`
+2. App Name: `Lock & Key`
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+`This is a game of riddles designed not to be beaten. If you think you're smart enough and want a challenge, give it a shot. Win the game and receive a small token of my appreciation.`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+ `People who want to challenge their brain and test their witts. People who enjoy the thrill of riddles.`
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: `https://github.com/Keffury1/TheDot`
+6. Github Project/Trello Board: `https://trello.com/b/f6XnZnIj/lock-key`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
