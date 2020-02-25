@@ -6,7 +6,7 @@
 
 ## Requirements
 
-1. Team Members: `Myself`
+1. Team Members: `Myself (Open to working with someone else as well)`
 2. App Name: `Lock & Key`
 3. App Description (3-5 sentences):
 
